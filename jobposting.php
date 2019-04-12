@@ -4,7 +4,7 @@ Plugin Name: jobposting_Markup
 Description:google for jobs 対応プラグイン
 Author:miyadeek
 Author URI: http://eitasatou.com/
-Version:0.1
+Version:1.0
 */
 
 //wp_headにフックをかける
